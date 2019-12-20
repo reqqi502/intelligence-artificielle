@@ -1,0 +1,165 @@
+*{
+padding: 0px;
+    margin: 0px;
+    flex:wrap;
+
+}
+.header{
+    border:2px solid;
+    width: 100%;
+    height: 300px;
+     background-color: black;
+     
+   
+}
+.side1{
+    border: 2px solid;
+    width: 20%;
+    height: 500px;
+    float: left;
+    background-color:black;
+}
+.side2{
+    float: right;
+    border: 2px solid;
+    width: 20%;
+    height: 500px;
+     background-color:black;
+}
+.menu{
+    border: 1px solid ;
+    height: 70px;
+    width: 100%;
+    margin-top:0px; 
+    float: right;
+}
+.footer{
+    background-color:black;
+    border:2px solid;
+    width: 100%;
+    height: 100px; 
+    margin-top: 577px;
+
+}
+
+.titre{
+   top:30px;
+    color : white;
+    float: right;
+    font-size: 50px;
+    margin-right: 40px;
+    font-family:inherit;
+    box-shadow: 1px 10px 4px 5px lightskyblue;
+}
+span{
+
+    font-size: 70px;
+    color:cyan;
+}
+a{
+   text-decoration: none;
+    color :white;
+}
+
+.menu table tr td{
+   color:white;
+ padding-left: 92px;
+    padding-right:60px;
+    background-color:black;
+    width: 30px;
+    font-size: 19px;
+    box-shadow: 1px 0px 0px 5px CYAN;
+    border-radius:22px 2px 2px 2px;
+}
+.container{
+    background-color:DarkGray ;
+    border: 2px solid red;
+    height: 500px;
+    width: 59%;
+    float: left;
+}   
+.akram
+{
+    
+    top:420px;
+
+    margin-left:0px;
+   width:256px;
+   height:350px;
+}
+
+.reqqi
+{
+    
+    top:420px;
+    margin-right:0px;
+   width:256px;
+   height:350px;
+
+}
+.hamid
+{
+    font-size:16px;
+    text-align:center;
+color:yellow; 
+}
+.rq
+{
+    margin-top:-2px;
+    font-size:14px;
+    text-align:center;
+    color:yellow;
+}
+
+#Par1{
+    text-align: justify;
+    margin-left: 35px;
+    margin-right: 10px;
+    text-indent: 60px;
+    font-size: 10px;
+    font-family: fangsong;
+
+}
+
+#M1{
+    list-style-type: georgian;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: #08E6FE;
+    }
+hr{
+    width: 60%;
+    margin-left: -1%;
+    margin-top: -0,5%;
+    color: #677E52;}
+#img1{
+
+    margin-top: 0px;
+    margin-left: 300px;
+}
+
+.T1 table{margin-left: -360px;position: absolute;left: 50%;}
+        td{text-align :center;font-size: 15px; font-family: fangsong;}
+        h3{text-align :center;}
+
+        .hr2{width: 75%;
+            margin-left: 10%;
+            margin-top: 1%;
+            color: #677E52;}
+
+        .hr3{width: 80%;
+            margin-left: 10%;
+            margin-top: 13%;
+            color: black;}
+
+            .rak{
+                text-align:center;
+            }
+            footer .raki
+            {text-align:left;
+              float:right;
+               
+            }
+            @media screen and (max-width: 780px){
+    .menu table tr td{display:flex;
+        
